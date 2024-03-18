@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ClassicRocki
 - 👀 I’m interested in ... Coding such as SQL Pthon Tableau
-- 🌱 I’m currently learning ...Google Data Analytics COurse
+- 🌱 I’m currently learning ...Google Data Analytics Course
 - 💞️ I’m looking to collaborate on ...coding 
-- 📫 How to reach me ...rherman9@gmail.com
+- 📫 How to reach me ...classicrocki on IG
 - 😄 Pronouns: ...She/Her
 - ⚡ Fun fact: ...I do nails as a hobby and can type really fast with long nails 
 
